@@ -16,3 +16,4 @@ Notes:
 Els examens penjats al Racó/Atenea porten la solució inclosa, mitjançant un editor de PDF les he tret per així poder practicar millor.  
 ##Diapositives teoria  
 Aquestes són totes les transparències de l'assignatura. La majoria de temes venen acompanyats d'uns vídeos i d'uns tests a Atenea.
+# FIB-PAR
