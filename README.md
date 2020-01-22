@@ -8,10 +8,10 @@ els codis en un .zip.
 #### Notes:
 * **Laboratori 1:** 1.4/1.5
 * **Laboratori 2:** 0.95/1
-* **Laboratori 3:** 2.4/2.5 CT: A
-* **Laboratori 4:** 2.6/2.5 CT: A
-* **Laboratori 5:** 1.9/2.5 CT: A [Incomplet, la tercera sessió "Gauss-Seidel" està a mitges]  
-## Examens  
-Els examens penjats al Racó/Atenea porten la solució inclosa, mitjançant un editor de PDF les he tret per així poder practicar millor.  
+* **Laboratori 3:** 2.4/2.5 **CT:** A
+* **Laboratori 4:** 2.6/2.5 **CT:** A
+* **Laboratori 5:** 1.9/2.5 **CT:** A *[Incomplet, la tercera sessió "Gauss-Seidel" està a mitges]*  
+## Exàmens  
+Els exàmens penjats al Racó/Atenea porten la solució inclosa, mitjançant un editor de PDF les he tret per així poder practicar millor.  
 ## Diapositives teoria  
-Aquestes són totes les transparències de l'assignatura. La majoria de temes venen acompanyats d'uns vídeos i d'uns tests a Atenea.
+Aquestes són totes les transparències de l'assignatura. La majoria de temes vénen acompanyats d'uns vídeos i d'uns tests a Atenea.
