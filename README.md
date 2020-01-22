@@ -1,6 +1,6 @@
 # Paral·lelisme 19-20Q1  
 ## Pràctiques laboratori  
-**Nota: 9.3** (%30 de l'assignatura)  
+**Nota: 9.3** (30% de l'assignatura)  
 Entregables de les 5 pràctiques de laboratori de [PAR](https://www.fib.upc.edu/ca/estudis/graus/grau-en-enginyeria-informatica/pla-destudis/assignatures/PAR). Els dos primers entregables són en català
 i la resta en anglès per a obtenir la nota de la Competència Transversal.  
 A partir del Lab 3 hi ha apartats opcionals que poden pujar la nota un +0.5. També s'ha d'incloure
